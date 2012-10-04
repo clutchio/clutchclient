@@ -1,0 +1,17 @@
+*.pyc
+local_settings.py
+build/
+src/
+pip-log.txt
+*DS_Store
+*~
+.databases.json
+dump.rdb
+media/*
+static/CACHE*
+static/media/CACHE*
+.vagrant
+*.log
+clutchclient.egg-info
+versiontools*
+dist/*

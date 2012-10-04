@@ -1,0 +1,7 @@
+/* Your screen-specific style overrides go here. */
+h1 {text-align:center;font-size:78px;margin:26px 0 0 0;color:#4183C4;letter-spacing:-2px;}
+h2 {font-size:42px;margin:8px 0 12px 36px;color:#0E4982;letter-spacing:-2px;}
+#next-steps {list-style: disc outside;margin: 0 40px 0 64px;}
+#next-steps li {margin-bottom: 4px;}
+#example-form {width: 80%; margin: 32px auto 0 auto;}
+#search-input {width: 100%; font-size: 32px; margin-bottom: 16px;}
