@@ -113,10 +113,6 @@ def find_package_data(
                 out.setdefault(package, []).append(prefix + name)
     return out
 
-
-from pprint import pprint
-pprint(find_package_data('clutchclient', only_in_packages=False))
-
 setup(
     name = "clutchclient",
     version = ":versiontools:clutchclient:",
